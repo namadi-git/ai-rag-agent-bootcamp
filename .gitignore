@@ -1,0 +1,28 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+ENV/
+
+# Environment and secret files
+.env
+.envrc
+
+# VS Code and editor configs
+.vscode/
+*.code-workspace
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.sqlite3
