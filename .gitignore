@@ -26,3 +26,13 @@ __pycache__/
 *.pyd
 *.pdb
 *.sqlite3
+
+# zip files
+*.zip
+
+# SQLite and data cache folders
+*/sqlite_db/
+sqlite_db/
+*/datacache/
+data_cache/
+
