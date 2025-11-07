@@ -29,10 +29,14 @@ __pycache__/
 
 # zip files
 *.zip
+*.bin
 
 # SQLite and data cache folders
 */sqlite_db/
 sqlite_db/
 */datacache/
 data_cache/
+.cache/
+*/.cache/
+
 
